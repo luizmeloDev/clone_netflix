@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="netflixClone.gif >
+  <img src="netflixClone.gif.gif >
 </p>
 
 # clone_netflix
