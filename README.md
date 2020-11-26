@@ -4,4 +4,6 @@
 
 # Recriando a interface da Netflix
 Claro que ainda nao acabou este é um exemplo de site com reponsividade  utilizando HTML CSS 
-e JAVASCRIPT. Essa aula vem do Bootcamp Everis Fullstack Developer junto com Digital Innovation One.
+e JAVASCRIPT. Essa aula vem do Bootcamp Everis Fullstack Developer junto com Digital Innovation One
+e com orientação do Tutor Felipe Silva Aguiar.
+Obrigado a todos...
